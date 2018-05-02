@@ -10,7 +10,7 @@
     "repositories": [
         {
           "type": "git",
-          "url": ""
+          "url": "https://github.com/IFlairTech/EasyReindexing.git"
         }
     ],
     "authors": [
