@@ -28,7 +28,7 @@ composer config repositories.IFlairTech/EasyReindexing vcs https://github.com/IF
 </pre>
 Then, install module as below:
 <pre>  
-  composer require iFlair/easyReindexing
+  composer require iflair/reindexing
 </pre>
 Then, enable module and install in Magento:
 <pre>
